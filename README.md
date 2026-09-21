@@ -1,2 +1,6 @@
 # Game-Scripts
-My Game Scripts(BomberRooster,Fortress,PhysicalGomi,YAOYA)
+My Game Scripts
+(BomberRooster,
+Fortress,
+PhysicalGomi,
+YAOYA)
